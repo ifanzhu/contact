@@ -24,4 +24,4 @@
 <h6>7.切换到项目目录</h6>
 <h6>8.react-native start</h6>
 <h6>9.react-native run-android (react-native run-ios)</h6>
-
+<h6>10.初次登录用户名:xxx@126.com    密码：123</h6>
