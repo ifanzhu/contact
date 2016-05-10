@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\pre-dexed\debug\classes-6e7f34be841c41407cb302af7b957f11259afd32.jar" />
+    </item>
+    <item
+        jar="C:\Users\dingzhoufang\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-ws\2.5.0\e9753b7dcae5deca92e871c5c759067070b07bc\okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-2.5.0-bc68063d545bb78e9907f70ed5525d05c40f46e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\dingzhoufang\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\pre-dexed\debug\library-2.4.0-f5d21229158b7885b3f8c6a169255cd4ef1a77a7.jar" />
+    </item>
+    <item
+        jar="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\pre-dexed\debug\classes-53f8a1bbf8e72a6d1e2dccd384b90ac5050d7b9d.jar" />
+    </item>
+    <item
+        jar="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\pre-dexed\debug\classes-5077a73ae9f32b00be34d83c083452f367328c4f.jar" />
+    </item>
+    <item
+        jar="C:\Users\dingzhoufang\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.3\1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14\jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.3-31f334dd3ee6b09c33070cf0060d0b57f7f31f07.jar" />
+    </item>
+    <item
+        jar="G:\programfiles\android\androidstudio\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-12f37cbd6ae3db547a6613ffc3dadc7bd6aabeee.jar" />
+    </item>
+    <item
+        jar="C:\Users\dingzhoufang\.gradle\caches\modules-2\files-2.1\com.facebook.stetho\stetho-okhttp\1.2.0\6c5c9380e245c4ff5be2b2a49dcbb0200c39798e\stetho-okhttp-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6c5c9380e245c4ff5be2b2a49dcbb0200c39798e">
+        <dex dex="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\pre-dexed\debug\stetho-okhttp-1.2.0-1678f5bf638fb9cb3826a7c8d3ee322a596bba67.jar" />
+    </item>
+    <item
+        jar="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\pre-dexed\debug\classes-ea98eae11c4e74534cce5f8c135f5a4b07239db8.jar" />
+    </item>
+    <item
+        jar="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-b518ab72402a7860785b16371d0569ea4252bcdc.jar" />
+    </item>
+    <item
+        jar="C:\Users\dingzhoufang\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0-b54f57a7a3e4a1c620d2c43723650081de7e7922.jar" />
+    </item>
+    <item
+        jar="C:\Users\dingzhoufang\.gradle\caches\modules-2\files-2.1\com.facebook.stetho\stetho\1.2.0\1d6cdb8ce8185b8b23213fad48a83987fb6d2d67\stetho-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1d6cdb8ce8185b8b23213fad48a83987fb6d2d67">
+        <dex dex="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\pre-dexed\debug\stetho-1.2.0-c1dd865775b4b6d9e37ec894e68e0451c382154e.jar" />
+    </item>
+    <item
+        jar="C:\Users\dingzhoufang\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\pre-dexed\debug\okio-1.6.0-4f256649c6a59319e6d7f8f1cbec79c9c8d8892a.jar" />
+    </item>
+    <item
+        jar="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\pre-dexed\debug\classes-e1424f6f2f6c09dbab2abcef77f8affe7ecc5690.jar" />
+    </item>
+    <item
+        jar="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\pre-dexed\debug\classes-ec8bdf94b75331435aaa1bee6555a0058104e33e.jar" />
+    </item>
+    <item
+        jar="C:\Users\dingzhoufang\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-d1771c11b2bcd7318d052bc145f4565c2a0775bd.jar" />
+    </item>
+    <item
+        jar="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\pre-dexed\debug\classes-e8e81a40061d3a0af15dd507b309ab20607189b0.jar" />
+    </item>
+    <item
+        jar="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.20.1\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffc64da9d9261e18ebc8b5e814f3d6a39aa6cbbe">
+        <dex dex="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5-aa71eb01d337cda52cc195ece4c91ba5f769ffd5.jar" />
+    </item>
+    <item
+        jar="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\pre-dexed\debug\classes-0c9d80a62b049dc619414b27fb2aaa7800342849.jar" />
+    </item>
+    <item
+        jar="C:\Users\dingzhoufang\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0-bfdcf8810b6b79c3d058cc2aba151d98d91e1499.jar" />
+    </item>
+    <item
+        jar="G:\maven\repository\commons-cli\commons-cli\1.2\commons-cli-1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\pre-dexed\debug\commons-cli-1.2-baf4003e71bbd5bda9ce4cd748e9aefb9b49cf08.jar" />
+    </item>
+    <item
+        jar="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.20.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2c06af8f68934cbbbc1153a5ab0064483e6ac692">
+        <dex dex="I:\research\react\mydemo\demo\address_book\android\app\build\intermediates\pre-dexed\debug\classes-02980b926d193b7eac6e1995596242ffdbc2ff5c.jar" />
+    </item>
+
+</items>
