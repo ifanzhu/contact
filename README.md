@@ -22,6 +22,6 @@
 <h6>5.npm install</h6>
 <h6>6.node app.js</h6>
 <h6>7.切换到项目目录</h6>
-<h6>7.react-native start</h6>
-<h6>7.react-native run-android (react-native run-ios)</h6>
+<h6>8.react-native start</h6>
+<h6>9.react-native run-android (react-native run-ios)</h6>
 
